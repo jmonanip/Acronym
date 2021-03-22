@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcronymsApp</string>
+    <string name="search_acronym_hint">Search Acronym</string>
+    <string name="lookup_meaning_text">Lookup meaning here</string>
+</resources>
